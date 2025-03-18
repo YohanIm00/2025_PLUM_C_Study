@@ -8,7 +8,8 @@ int main()
     float one = 1.0;
     double pi = 3.141592653579;
     char a = 'a';
-    bool isTrue = false;
+    _Bool isTrue = false;
+    bool isFalse = true;
 
     return 0;
 }
